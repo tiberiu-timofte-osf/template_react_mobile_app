@@ -1,0 +1,17 @@
+export default {
+    INVALID_LOGIN : 'Invalid email or password',
+    ENTER_EMAIL : 'Please enter your email',
+    ENTER_PASSWORD : 'Please enter your password',
+    EMAIL_INCORRECT : 'Email address format incorrect',
+    PHONE_INCORRET : 'Phone number format incorrect',
+    FIRST_NAME_REQUIRED : 'First name is required',
+    LAST_NAME_REQUIRED : 'Last name is required',
+    EXPIRED_CODE : 'Oops, looks like your code is invalid or expired, please try again.',
+    INVALID_PASSWORD : 'Password not valid',
+    CODE_NOT_VALID: 'Oops, looks like your code is invalid or expired, please try again.',
+    PASSWORD_NOT_VALID: 'Password not valid',
+    INVALID_DATE: 'Invalid date',
+    INVALID_PHONE: 'Please provide a valid phone number.',
+    TOO_YOUNG: 'To register, you must be at least 18 years old.',
+    INVALID_GIFTCODE : 'Code not valid',
+};
